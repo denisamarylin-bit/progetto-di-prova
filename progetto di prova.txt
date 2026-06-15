@@ -1,3 +1,1 @@
-
-Print(hello world)
-Print(how are you?)
+Hello world
